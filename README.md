@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to Poynters
 
-You can use the [editor on GitHub](https://github.com/PoyntersLLC/poyntersllc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We specialize in educational consulting services for engineering firms, institutions, and departments. Our main field of expertise is power engineering and energy access.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About us
 
-### Markdown
+## Services
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
